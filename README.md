@@ -7,7 +7,7 @@ Projeto em C# que simula um robô que percorre uma matriz 10x10 desviando de obs
 
 1. Certifique-se de ter o .NET SDK instalado (8.0 ou superior).
 2. Execute no terminal:
-
+3- Qualquer coisa no terminal digite dotnet run --:(Caminho da sua máquina que está esse arquivo\LabirintoRobo.csproj 
 ```
 dotnet restore
 dotnet run
